@@ -1,0 +1,31 @@
+.container {
+    margin: auto;
+    max-width: 500px;
+    font-family: sans-serif;
+    background-color: rgb(255, 255, 248);
+  }
+
+
+
+  .heading {
+    color: rgb(16, 82, 60);
+    text-align: center;
+  }
+
+  .nav-links {
+    display: flex;
+    list-style: none;
+    padding-left: 0;
+  }
+  .nav-link-item {
+    padding-right: 2rem;
+  }
+  .nav-link-text {
+    color: rgb(1, 31, 15);
+    text-decoration: none;
+  }
+
+  
+
+  
+  
