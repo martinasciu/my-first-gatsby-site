@@ -12,6 +12,8 @@
     text-align: center;
   }
 
+
+
   .nav-links {
     display: flex;
     list-style: none;
@@ -25,7 +27,21 @@
     text-decoration: none;
   }
 
-  
+  .paragraph {
 
-  
+    color:rgb(62, 160, 221);
+    padding: 20%;
+  }
+
+  .subheading {
+    color: rgb(39, 211, 154);
+    text-align: center;
+  }
+
+  .siteTitle {
+    font-size: 3rem;
+    color: rgb(0, 157, 105);
+    text-align: center;
+    font-weight: 700;
+  }
   
